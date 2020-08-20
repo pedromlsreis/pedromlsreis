@@ -7,7 +7,7 @@ My name is Pedro, I'm Portuguese and I'm a data scientist @ everis Portugal.
 __About me:__
   - I love coffee and the ocean
   - Passionate about technology and business
-  - Also, I really like to-do lists and to automate boring tasks 😄
+  - Also, I'm a fan of to-do lists and I really like to automate boring tasks 😄
 
 <br>
 
