@@ -32,9 +32,11 @@ __You can also find me on:__
 &nbsp;&nbsp;
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg' alt='kaggle' height='30'>](https://www.kaggle.com/pedromlsreis)  
 
-___
+<br>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=pedromlsreis&show_icons=true)
+
+<br>
 
 ![Profile views](https://gpvc.arturio.dev/pedromlsreis)  
 
