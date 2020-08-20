@@ -11,7 +11,7 @@ My name is Pedro, I'm Portuguese and I'm a data scientist @ everis Portugal.
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedromlsreis&layout=compact" />
 </a>
 
-<br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br>
 
 __About me:__
   - I love coffee and the ocean
