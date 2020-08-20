@@ -1,14 +1,23 @@
-### Hello! 👋
+### Hello world. 👋
 
-My name is Pedro, I'm Portuguese and I'm a data scientist @ everis Portugal
+My name is Pedro, I'm Portuguese and I'm a data scientist @ everis Portugal.
 
 <br>
+
+<a href="https://github-readme-stats.vercel.app/api?username=pedromlsreis&show_icons=true&count_private=true">
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=pedromlsreis&show_icons=true&count_private=true&include_all_commits=true&hide=stars" />
+</a>
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=pedromlsreis&layout=compact">
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedromlsreis&layout=compact" />
+</a>
+
+<br><br><br><br><br><br><br>
 
 __About me:__
   - I love coffee and the ocean
   - Passionate about technology and business
   - Also, I really like to-do lists and to automate boring tasks 😄
- 
+
 <br>
 
 __Skills:__ 
@@ -29,10 +38,6 @@ __You can also find me on:__
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg' alt='kaggle' height='30'>](https://www.kaggle.com/pedromlsreis)
 &nbsp;&nbsp;
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='30'>](https://stackoverflow.com/users/8406700)
-
-<br>
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=pedromlsreis&show_icons=true)
 
 <br>
 
