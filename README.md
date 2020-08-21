@@ -37,6 +37,7 @@ __You can also find me on:__
 
 <br>
 
+![GitHub](https://img.shields.io/github/license/pedromlsreis/pedromlsreis?style=flat)
 ![Profile views](https://gpvc.arturio.dev/pedromlsreis)  
 
 
