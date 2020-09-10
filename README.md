@@ -1,6 +1,6 @@
 ## Hello world, I'm Pedro 👋
 
-My name is Pedro, I'm Portuguese and I'm a data scientist @ everis Portugal and a finalist of the MSc. in Data Science & Advanced Analytics @ Nova Information Management School - Universidade Nova de Lisboa.
+My name is Pedro, I'm Portuguese and I'm a data scientist @ [everis Portugal](https://www.everis.com/portugal/pt-pt/home-pt) and a finalist of the MSc. in Data Science & Advanced Analytics @ [Nova Information Management School - Universidade Nova de Lisboa](https://www.novaims.unl.pt/maa-ds).
 
 <br>
 
