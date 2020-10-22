@@ -23,7 +23,7 @@ ___
 
 __BONUS - Riddle me this!__
 
-Guess my favorite hobbie and contact me the answer. If it's correct, I'll make your GitHub link appear in the Hall of Fame below.
+If you like puzzles, guess my favorite hobbie and contact me the answer. If it's correct, I'll make your GitHub link appear in the Hall of Fame below.
 Here is a ROTten hint :)
 
 ```
