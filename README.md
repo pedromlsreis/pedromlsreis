@@ -19,6 +19,26 @@ __Skills:__
 
 <br>
 
+___
+
+__BONUS - Riddle me this!__
+
+Guess my favorite hobbie and contact me the answer. If it's correct, I'll make your GitHub link appear in the Hall of Fame below.
+Here is a ROTten hint :)
+
+```
+93o885nqsr0qn089pqs634904sq59s71
+```
+
+<br>
+
+__Hall of Fame:__
+  -  ...
+
+<br>
+
+___
+
 __You can also find me on:__
 
 &nbsp;&nbsp;&nbsp;&nbsp;
@@ -38,7 +58,6 @@ __You can also find me on:__
 
 ![Profile views](https://gpvc.arturio.dev/pedromlsreis)
 ![GitHub License](https://img.shields.io/github/license/pedromlsreis/pedromlsreis?style=flat)
-
 
 <!--
 **pedromlsreis/pedromlsreis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
