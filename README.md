@@ -21,14 +21,31 @@ __Skills:__
 
 ___
 
-__BONUS - Riddle me this!__
+### BONUS - Riddle me this!
 
-If you like puzzles, guess my favorite hobbie and contact me the answer. If it's correct, I'll make your GitHub link appear in the Hall of Fame below.
-Here is a ROTten hint :)
+If you like puzzles, guess my favorite hobbie using the zip from the URL and contact me with the answer.
+If it's correct, I'll make your GitHub link appear in the Hall of Fame below!
 
 ```
-93o885nqsr0qn089pqs634904sq59s71
+https://drive.google.com/file/d/1h_KFGkV0c93JE0kYN-rA3aROt0xNj1e6/view
+MD5 checksum: D0342E7A77087B53C35C52D3A31604B0
 ```
+
+**Step 1. '1s_th1s_4_j0k3?'**
+
+<details>
+  <summary>Hint</summary>
+    
+    rockyou
+</details>  
+
+**Step 2. '0h n0w 1 c4n s33 cl34rly.'**
+
+<details>
+  <summary>Hint</summary>
+  
+    steganography
+</details>
 
 <br>
 
