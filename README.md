@@ -23,7 +23,7 @@ ___
 
 #### BONUS - Riddle me this!
 
-If you like puzzles, here's a little cryptography problem :)
+If you like puzzles, [here's](https://github.com/pedromlsreis/h0bbi3_r1ddl3) a little cryptography problem :)
 
 Guess my favorite hobbie using the zip from the URL and contact me with the answer.
 
