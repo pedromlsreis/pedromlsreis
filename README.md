@@ -1,17 +1,19 @@
 ## Hello world 👋
 
-My name is Pedro, I'm Portuguese and I'm a data scientist @ [everis Portugal](https://www.everis.com/portugal/pt-pt/home-pt) and a finalist of the MSc. in Data Science & Advanced Analytics @ [Nova Information Management School - Universidade Nova de Lisboa](https://www.novaims.unl.pt/maa-ds).
+My name is Pedro Reis
+       Pee-Droh Reys
+I'm Portuguese and I'm a data science consultant @ [everis, an NTT DATA Company](https://www.everis.com) and a finalist of the MSc. in Data Science & Advanced Analytics @ [Nova Information Management School - Universidade Nova de Lisboa](https://www.novaims.unl.pt/maa-ds).
 
 <br>
 
-__About me:__
+__💬 About me:__
   - I love coffee and the ocean
   - Passionate about technology and business
   - Also, I'm a fan of to-do lists and I really like to automate boring tasks 😄
 
 <br>
 
-__Skills:__ 
+__⚡ Skills:__ 
   - Python
   - Machine Learning
   - Deep Learning
@@ -78,18 +80,3 @@ __You can also find me on:__
 
 ![Profile views](https://gpvc.arturio.dev/pedromlsreis)
 ![GitHub License](https://img.shields.io/github/license/pedromlsreis/pedromlsreis?style=flat)
-
-<!--
-**pedromlsreis/pedromlsreis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
