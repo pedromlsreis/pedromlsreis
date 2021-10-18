@@ -4,7 +4,7 @@ My name is Pedro Reis.
 
        Pee-Droh Reys
        
-I'm Portuguese and I'm a data science consultant @ [everis, an NTT DATA Company](https://www.everis.com) and a finalist of the MSc. in Data Science & Advanced Analytics @ [Nova Information Management School - Universidade Nova de Lisboa](https://www.novaims.unl.pt/maa-ds).
+I'm Portuguese and I'm a data science Senior Consultant @ [NTT DATA](https://www.nttdata.com) and a finalist of the MSc. in Data Science & Advanced Analytics @ [Nova Information Management School - Universidade Nova de Lisboa](https://www.novaims.unl.pt/maa-ds).
 
 <br>
 
