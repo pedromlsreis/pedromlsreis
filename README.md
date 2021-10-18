@@ -15,7 +15,7 @@ __💬 About me:__
 
 <br>
 
-__⚡ Skills:__ 
+__⚡ Technical Skills:__ 
   - Python
   - Machine Learning
   - Deep Learning
