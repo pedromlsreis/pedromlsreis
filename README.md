@@ -82,3 +82,5 @@ __You can also find me on:__
 
 ![Profile views](https://gpvc.arturio.dev/pedromlsreis)
 ![GitHub License](https://img.shields.io/github/license/pedromlsreis/pedromlsreis?style=flat)
+[![Donate BTC](https://img.shields.io/badge/Donate-5€%20in%20Bitcoin-green.svg)](https://nrobinson2000.github.io/donate-bitcoin/?popup=false&address=3DQ6GY82ewKLwigp7uCY7W3NMYV39eTL9v&amount=5&currency=EUR&name=Pedro-Reis&mbits=true)
+[![ko-fi](https://img.shields.io/badge/Ko--fi-Buy%20me%20a%20Coffee-555F6B?logo=ko-fi&logoColor=white&labelColor=F16061&style=flat)](https://ko-fi.com/pedromlsreis)
