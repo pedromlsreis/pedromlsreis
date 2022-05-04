@@ -4,7 +4,7 @@ My name is Pedro Reis.
 
        Pee-Droh Reys
        
-I'm Portuguese and I'm a data science Senior Consultant @ [NTT DATA](https://www.nttdata.com) and a finalist of the MSc. in Data Science & Advanced Analytics @ [Nova Information Management School - Universidade Nova de Lisboa](https://www.novaims.unl.pt/maa-ds).
+I'm Portuguese and I'm a data science Team Leader @ [NTT DATA](https://www.nttdata.com) and I have a MSc. in Data Science & Advanced Analytics @ [Nova Information Management School - Universidade Nova de Lisboa](https://www.novaims.unl.pt/maa-ds).
 
 <br>
 
@@ -18,8 +18,8 @@ __💬 About me:__
 __⚡ Technical Skills:__ 
   - Python
   - Machine Learning
-  - Deep Learning
   - Algorithms
+  - Technical management
 
 <br>
 
