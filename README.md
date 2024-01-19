@@ -72,6 +72,7 @@ __You can also find me on:__
 [![ORCID Badge](https://img.shields.io/badge/-Pedro%20M.%20L.%20S.%20Reis-6C6C6C?style=flat&logo=ORCID&labelColor=6C6C6C&link=https://orcid.org/0000-0001-6380-2279)](https://orcid.org/0000-0001-6380-2279)
 [![Stack Overflow Badge](https://img.shields.io/badge/-pedro--reis-706664?style=flat&logo=Stack-Overflow&labelColor=706664&link=https://stackoverflow.com/users/8406700/pedro-reis)](https://stackoverflow.com/users/8406700/pedro-reis)
 [![Gmail Badge](https://img.shields.io/badge/-pedromlsreis-c14438?style=flat&logo=Gmail&logoColor=white&labelColor=c14438&link=mailto:pedromlsreis@gmail.com)](mailto:pedromlsreis@gmail.com)
+[![HackerRank Badge](https://img.shields.io/badge/-pedromlsreis-0d141e?style=flat&logo=HackerRank&logoColor=00ea64&labelColor=0d141e&link=https://www.hackerrank.com/profile/pedromlsreis)](https://www.hackerrank.com/profile/pedromlsreis)
 
 <br>
 
@@ -80,7 +81,7 @@ __You can also find me on:__
 
 <br>
 
-![Profile views](https://gpvc.arturio.dev/pedromlsreis)
+![Profile views](https://komarev.com/ghpvc/?username=pedromlsreis&color=green&style=flat&abbreviated=true&base=2301)
 ![GitHub License](https://img.shields.io/github/license/pedromlsreis/pedromlsreis?style=flat)
 [![Donate BTC](https://img.shields.io/badge/Donate-5€%20in%20Bitcoin-green.svg)](https://nrobinson2000.github.io/donate-bitcoin/?popup=false&address=3DQ6GY82ewKLwigp7uCY7W3NMYV39eTL9v&amount=5&currency=EUR&name=Pedro-Reis&mbits=true)
 [![ko-fi](https://img.shields.io/badge/Ko--fi-Buy%20me%20a%20Coffee-555F6B?logo=ko-fi&logoColor=white&labelColor=F16061&style=flat)](https://ko-fi.com/pedromlsreis)
