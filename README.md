@@ -2,7 +2,7 @@
 
 My name is Pedro Reis.
 
-       Pee-Droh Reys
+       Peh-droo Raysh
        
 I'm Portuguese, I live in Lisbon and work in Statkraft Markets - Trading & Origination - MRDT (Trading Data Analytics) @ [Statkraft](https://www.statkraft.com). Also, I have a MSc. in Data Science & Advanced Analytics from [Nova Information Management School - Universidade Nova de Lisboa](https://www.novaims.unl.pt/maa-ds).
 
